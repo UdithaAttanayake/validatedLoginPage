@@ -79,7 +79,7 @@ const formValid = ({ formErrors, ...rest }) => {
       return (
         <div className="wrapper">
           <div className="form-wrapper">
-            <h1>Create Account</h1>
+            <h1>Create Account changed in dev branch not worked</h1>
             <form onSubmit={this.handleSubmit} noValidate>
               <div className="LoginName">
                 <label htmlFor="LoginName">Login Name</label>
